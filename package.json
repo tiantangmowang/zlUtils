@@ -1,0 +1,16 @@
+{
+    "name": "zlUtils",
+    "version": "0.0.1",
+    "description": "一些常用的设计模式和提效工具的积累",
+    "main": "dist/index.js",
+    "files": [
+        "dist/*.js"
+    ],
+    "keywords": [
+        "zlUtils",
+        "utils",
+        "javascript"
+    ],
+    "author": "ZZL",
+    "license": "MIT"
+}
